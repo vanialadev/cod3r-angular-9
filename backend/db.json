@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta bic preta",
-      "price": 5.89
+      "price": "5.88"
     },
     {
       "id": 2,
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Samsung s20",
-      "price": 5000.89
+      "name": "Samsung s20 ultra",
+      "price": "7000.88"
     },
     {
       "name": "veio do formulario",
