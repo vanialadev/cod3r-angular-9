@@ -16,8 +16,8 @@
       "price": 5000.89
     },
     {
-      "name": "vania",
-      "price": 12.9,
+      "name": "veio do formulario",
+      "price": "121212.12",
       "id": 4
     }
   ]
