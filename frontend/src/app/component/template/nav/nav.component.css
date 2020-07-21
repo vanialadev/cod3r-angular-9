@@ -8,5 +8,5 @@
 
 .content {
     padding: 16px;
-    
+    height: calc(100vh - 160px);
 }
