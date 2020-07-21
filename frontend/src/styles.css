@@ -10,3 +10,9 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle{
     vertical-align: middle;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
